@@ -1,8 +1,5 @@
-import streamlit as st
-import PIL
-import cv2
-import numpy as np
-import utility
-import io
-import matplotlib.pyplot as plt
-import openvino as ov
+streamlit
+Pillow
+opencv-python
+numpy
+matplotlib
