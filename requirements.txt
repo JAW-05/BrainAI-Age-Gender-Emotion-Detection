@@ -1,7 +1,5 @@
-streamlit == 1.36.0
-numpy == 1.24.0
-matplotlib == 3.9.5
-openvino == 2024.0.0
-opencv-python
+streamlit
 Pillow
+opencv-python
+numpy
 matplotlib
