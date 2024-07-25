@@ -2,4 +2,4 @@ streamlit == 1.36.0
 numpy == 1.24.0
 matplotlib == 3.9.5
 openvino == 2024.0.0
-cv2 == 4.9.0
+opencv-python
