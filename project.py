@@ -49,7 +49,7 @@ if source_radio == "IMAGE":
         st.image(visualized_image, channels = "BGR")
 
     else:
-        st.image("assets/sample_image.jpg")
+        st.image("assets/sample_image.jpeg")
         st.write("Click on 'Browse Files' in the sidebar to run inference on an image.")
 
 temporary_location = None
